@@ -1,0 +1,17 @@
+Target: ipodvideo
+Target id: 15
+Target define: -DIPOD_VIDEO
+Memory: 64
+CPU: arm
+Manufacturer: ipod
+Version: f86f7883f5-200329
+Binary: rockbox.ipod
+Binary size: 807828
+Voice format: 400
+Actual size: 807820
+RAM usage: 1350544
+Features: accessory_supply:alarm:backlight_brightness:crossfade:dircache:headphone_detection:hold_button:hotkey:lcd_bitmap:lcd_non-mono:lcd_color:lcd_sleep:morse_input:pitchscreen:quickscreen:radio:recording:recording_swcodec:recording_linein:rtc:serial_port:swcodec:tagcache:tc_ramcache:charging:usb_charging_enable:wheel_acceleration:lineout_poweroff:large_plugin_buffer:albumart:backlight_fade_int:disk_storage:scrollwheel:usb_power:usbstack:usb_hid:usb_hid_mouse:hardware_click:play_frequency
+gcc: arm-elf-eabi-gcc (GCC) 4.4.4
+ld: GNU ld (GNU Binutils) 2.20.1.20100303
+Host gcc: gcc (GCC) 9.2.1 20190827 (Red Hat 9.2.1-1)
+Host system: Linux
