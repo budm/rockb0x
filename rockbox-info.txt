@@ -4,7 +4,7 @@ Target define: -DIPOD_VIDEO
 Memory: 64
 CPU: arm
 Manufacturer: ipod
-Version: f86f7883f5-200329
+Version: modifiedf86f7883f5-200329
 Binary: rockbox.ipod
 Binary size: 807828
 Voice format: 400
